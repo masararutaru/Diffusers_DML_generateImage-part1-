@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# astronaut_mars.png
+astronaut_mars.png
+
+# Virtual Environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face / diffusers
+*.ckpt
+*.safetensors
+*.bin
+cache/
+.cache/
+huggingface/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
